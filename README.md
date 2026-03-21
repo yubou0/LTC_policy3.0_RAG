@@ -10,4 +10,4 @@ https://1966.gov.tw/LTC/cp-6572-85008-207.html
 3.  **RAG Chain 建構**：整合 LangChain 的 `create_retrieval_chain` 與 Google Gemini 2.5 Flash API。透過 System Prompt，限制 AI 模型的回答僅基於檢索到的文件內容，有效避免「幻覺」現象。
 4.  **實際問答與驗證**：系統能夠接受使用者提問，從向量資料庫中檢索相關文本片段，並結合大型語言模型生成具事實基礎的回答。同時，也初步提到了使用 RAGAS 評估系統性能的重要性，關注回答的忠實性 (Faithfulness)、相關性 (Answer Relevancy) 和上下文精確度 (Context Precision)。
 
-透過這個系統，希望能降低民眾理解長照政策的門檻，提升資訊獲取的效率與準確性。
+透過這個間單的小程式，希望能降低民眾理解長照政策的門檻，提升資訊獲取的效率與準確性。
