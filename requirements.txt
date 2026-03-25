@@ -1,0 +1,9 @@
+Python 3.12.12
+langchain
+langchain-community
+langchain-classic
+langchain-google-genai
+langchain-huggingface
+pypdf
+chromadb
+sentence-transformers
